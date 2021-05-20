@@ -21,13 +21,13 @@ _16 TILs and counting..._
 - [html](#html)
 - [test](#test)
 
-### [React](#React)
+### React
 - [test](React/test.md)
 
-### [book](#book)
+### Book
 - [프로그래머의 길, 멘토에게 묻다.](book/apprenticeship-patterns.md)
 
-### [css](#css)
+### CSS
 - [CSS 플렉스 박스(Flex Box)](css/2104030_css-flex.md)
 - [CSS block, inline, inline-block 요소의 차이](css/210404_block-inline-inline-block.md)
 - [CSS 초기화 전략(Reset.css vs Normalize.css)](css/210405_reset-css.md)
@@ -38,13 +38,13 @@ _16 TILs and counting..._
 - [미디어 쿼리를 이용한 반응형 작업](css/210514-css-media-query-basics.md)
 - [:root 가상 클래스로 CSS 전역 변수 설정하기](css/root-selector.md)
 
-### [html](#html)
+### HTML
 - [DOCTYPE](html/210404_doctype.md)
 - [Emmet 플러그인 사용법](html/210406_emmet.md)
 - [script 태그와 script async, script defer의 차이](html/210520_script-async-defer.md)
 - [근원이 되는 시맨틱 마크업](html/semantic.md)
 
-### [test](#test)
+### TEST
 - [test3](test/test.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
