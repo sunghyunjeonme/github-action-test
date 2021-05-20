@@ -20,7 +20,7 @@ _4 TILs and counting..._
 - [html](#html)
 - [test](#test)
 
-### [React](#React)
+### [React]
 - [test](React/test.md)
 
 ### [css](#css)
