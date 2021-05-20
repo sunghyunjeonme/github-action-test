@@ -41,7 +41,7 @@ _13 TILs and counting..._
 - [미디어 쿼리를 이용한 반응형 작업](css/210514-css-media-query-basics.md)
 - [:root 가상 클래스로 CSS 전역 변수 설정하기](css/root-selector.md)
 
-### [html](#html)
+### HTML
 
 - [test2](html/test2.md)
 
