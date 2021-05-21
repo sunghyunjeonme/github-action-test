@@ -10,15 +10,17 @@ _16 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [근원이 되는 시맨틱 마크업](html/semantic.md) - Thu May 20 23:43:14 2021 +0900
-- [Emmet 플러그인 사용법](html/210406_emmet.md) - Thu May 20 23:43:14 2021 +0900
+- [HTTP 기본 내용 정리](http/210410_http-basics.md) - Thu May 20 23:54:01 2021 +0900
+- [나만의 커밋 메시지 가이드](git/my-commit-guide.md) - Thu May 20 23:54:01 2021 +0900
 
 ### Categories
 
 - [React](#React)
 - [book](#book)
 - [css](#css)
+- [git](#git)
 - [html](#html)
+- [http](#http)
 - [test](#test)
 
 ### React
